@@ -1,0 +1,49 @@
+info @storybook/react v6.4.15
+info 
+info => Cleaning outputDir: /var/folders/61/8w27n8194hbf83hd9z58n10r0000gn/T/chromatic--6959-L19pyWGc1wWL
+info => Loading presets
+info => Compiling manager..
+vite v2.4.1 building for production...
+transforming...
+Conflicting namespaces: "node_modules/@storybook/components/dist/esm/index.js" re-exports "components" from both "node_modules/@storybook/components/dist/esm/index.js" and "node_modules/@storybook/components/dist/esm/typography/DocumentFormatting.js" (will be ignored)
+Conflicting namespaces: "node_modules/@storybook/addon-docs/dist/esm/blocks/index.js" re-exports "SourceState" from both "node_modules/@storybook/addon-docs/dist/esm/blocks/Canvas.js" and "node_modules/@storybook/addon-docs/dist/esm/blocks/Source.js" (will be ignored)
+Use of eval is strongly discouraged, as it poses security risks and may cause issues with minification
+Use of eval is strongly discouraged, as it poses security risks and may cause issues with minification
+Use of eval is strongly discouraged, as it poses security risks and may cause issues with minification
+✓ 1549 modules transformed.
+rendering chunks...
+info => Manager built (13 s)
+../../../../../var/folders/61/8w27n8194hbf83hd9z58n10r0000gn/T/chromatic--6959-L19pyWGc1wWL/assets/code-brackets.9ef6443e.svg           1.42kb
+../../../../../var/folders/61/8w27n8194hbf83hd9z58n10r0000gn/T/chromatic--6959-L19pyWGc1wWL/assets/colors.ac9401f3.svg                  8.31kb
+../../../../../var/folders/61/8w27n8194hbf83hd9z58n10r0000gn/T/chromatic--6959-L19pyWGc1wWL/assets/direction.94a9917f.svg               1.25kb
+../../../../../var/folders/61/8w27n8194hbf83hd9z58n10r0000gn/T/chromatic--6959-L19pyWGc1wWL/assets/flow.275142c6.svg                    1.36kb
+../../../../../var/folders/61/8w27n8194hbf83hd9z58n10r0000gn/T/chromatic--6959-L19pyWGc1wWL/assets/plugin.57148314.svg                  2.12kb
+../../../../../var/folders/61/8w27n8194hbf83hd9z58n10r0000gn/T/chromatic--6959-L19pyWGc1wWL/assets/repo.fb4ece47.svg                    1.60kb
+../../../../../var/folders/61/8w27n8194hbf83hd9z58n10r0000gn/T/chromatic--6959-L19pyWGc1wWL/assets/comments.f15a6837.svg                1.49kb
+../../../../../var/folders/61/8w27n8194hbf83hd9z58n10r0000gn/T/chromatic--6959-L19pyWGc1wWL/assets/stackalt.2ad81543.svg                2.49kb
+../../../../../var/folders/61/8w27n8194hbf83hd9z58n10r0000gn/T/chromatic--6959-L19pyWGc1wWL/iframe.html                                 11.66kb
+../../../../../var/folders/61/8w27n8194hbf83hd9z58n10r0000gn/T/chromatic--6959-L19pyWGc1wWL/assets/renderDocs.921b8002.js               2.38kb / brotli: 0.96kb
+../../../../../var/folders/61/8w27n8194hbf83hd9z58n10r0000gn/T/chromatic--6959-L19pyWGc1wWL/assets/renderDocs.921b8002.js.map           8.44kb
+../../../../../var/folders/61/8w27n8194hbf83hd9z58n10r0000gn/T/chromatic--6959-L19pyWGc1wWL/assets/iframe.d1531571.js                   17.63kb / brotli: 4.42kb
+../../../../../var/folders/61/8w27n8194hbf83hd9z58n10r0000gn/T/chromatic--6959-L19pyWGc1wWL/assets/iframe.d1531571.js.map               16.60kb
+../../../../../var/folders/61/8w27n8194hbf83hd9z58n10r0000gn/T/chromatic--6959-L19pyWGc1wWL/assets/WithTooltip.f894eac6.js              19.37kb / brotli: 5.22kb
+../../../../../var/folders/61/8w27n8194hbf83hd9z58n10r0000gn/T/chromatic--6959-L19pyWGc1wWL/assets/WithTooltip.f894eac6.js.map          66.87kb
+../../../../../var/folders/61/8w27n8194hbf83hd9z58n10r0000gn/T/chromatic--6959-L19pyWGc1wWL/assets/GlobalScrollAreaStyles.c8eb004f.js   10.04kb / brotli: 1.95kb
+../../../../../var/folders/61/8w27n8194hbf83hd9z58n10r0000gn/T/chromatic--6959-L19pyWGc1wWL/assets/GlobalScrollAreaStyles.c8eb004f.js.map 19.90kb
+../../../../../var/folders/61/8w27n8194hbf83hd9z58n10r0000gn/T/chromatic--6959-L19pyWGc1wWL/assets/Color.2d8eb638.js                    29.06kb / brotli: 9.20kb
+../../../../../var/folders/61/8w27n8194hbf83hd9z58n10r0000gn/T/chromatic--6959-L19pyWGc1wWL/assets/Color.2d8eb638.js.map                104.82kb
+../../../../../var/folders/61/8w27n8194hbf83hd9z58n10r0000gn/T/chromatic--6959-L19pyWGc1wWL/assets/iframe.a948d8a7.css                  1.73kb / brotli: 0.47kb
+../../../../../var/folders/61/8w27n8194hbf83hd9z58n10r0000gn/T/chromatic--6959-L19pyWGc1wWL/assets/syntaxhighlighter.4a1dc978.js        66.29kb / brotli: 21.69kb
+../../../../../var/folders/61/8w27n8194hbf83hd9z58n10r0000gn/T/chromatic--6959-L19pyWGc1wWL/assets/syntaxhighlighter.4a1dc978.js.map    252.53kb
+../../../../../var/folders/61/8w27n8194hbf83hd9z58n10r0000gn/T/chromatic--6959-L19pyWGc1wWL/assets/OverlayScrollbars.3742cb16.js        56.25kb / brotli: 20.82kb
+../../../../../var/folders/61/8w27n8194hbf83hd9z58n10r0000gn/T/chromatic--6959-L19pyWGc1wWL/assets/OverlayScrollbars.3742cb16.js.map    484.05kb
+../../../../../var/folders/61/8w27n8194hbf83hd9z58n10r0000gn/T/chromatic--6959-L19pyWGc1wWL/assets/axe.b4985886.js                      418.46kb / brotli: 89.39kb
+../../../../../var/folders/61/8w27n8194hbf83hd9z58n10r0000gn/T/chromatic--6959-L19pyWGc1wWL/assets/axe.b4985886.js.map                  1371.61kb
+../../../../../var/folders/61/8w27n8194hbf83hd9z58n10r0000gn/T/chromatic--6959-L19pyWGc1wWL/assets/vendor.2550ab0f.js                   1331.68kb / brotli: skipped (large chunk)
+../../../../../var/folders/61/8w27n8194hbf83hd9z58n10r0000gn/T/chromatic--6959-L19pyWGc1wWL/assets/vendor.2550ab0f.js.map               3834.92kb
+
+(!) Some chunks are larger than 500kb after minification. Consider:
+- Using dynamic import() to code-split the application
+- Use build.rollupOptions.output.manualChunks to improve chunking: https://rollupjs.org/guide/en/#outputmanualchunks
+- Adjust chunk size limit for this warning via build.chunkSizeWarningLimit.
+info => Output directory: /var/folders/61/8w27n8194hbf83hd9z58n10r0000gn/T/chromatic--6959-L19pyWGc1wWL
